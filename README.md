@@ -221,21 +221,21 @@ Total real consumido		~18 USD
 
 Todo dentro de los 200 USD de crédito gratuito.
 
-📉 Diferencia con un escenario de producción
+Diferencia con un escenario de producción
 Azure SQL Database
 
-✔ Plan Básico 5 DTU → ~4.90 USD / mes
-✔ Uso General (serverless 1 vCore) → ~0.30 USD / mes
-✔ Facturación por segundo
+Plan Básico 5 DTU → ~4.90 USD / mes
+Uso General (serverless 1 vCore) → ~0.30 USD / mes
+Facturación por segundo
 
 Databricks
 
-✔ Cluster de trabajo → se paga por hora
-✔ Se sugiere usar auto-shutdown
+Cluster de trabajo → se paga por hora
+Se sugiere usar auto-shutdown
 
 ADF
 
-✔ Se paga por DIUHours (muy bajo en este proyecto)
+Se paga por DIUHours (muy bajo en este proyecto)
 
 8. Cierre y desactivación de recursos
 
